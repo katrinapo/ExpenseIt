@@ -17,3 +17,7 @@ ExpenseIt is a reimbursement system for employees of a corporation who need to b
   ### Future To-Dos:
     - Administrators can filter the ticket list based on user, date, type
     - Users can upload an image of expense receipts when submitting reimbursement tickets
+
+## Getting Started
+* git clone https://github.com/katrinapo/ExpenseIt.git
+* Import as existing Maven project into your IDE
